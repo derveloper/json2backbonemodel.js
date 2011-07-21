@@ -7,6 +7,7 @@ Arrays of objects are converted to collections.
 
 ## Demo
 The use of json2backbonemodel.js is quite simple:
+
     json2backbonemodel.modelObjectBuilder(yourJSONdata);
     => Backbone.Model instance filled with the data from the JSON.
 
